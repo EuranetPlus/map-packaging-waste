@@ -1,13 +1,13 @@
 {
-  "heading": "Verpakkingsafval geproduceerd in EU-landen in 2020",
-  "subheading": "De totale hoeveelheid geproduceerd verpakkingsafval in EU-landen; EU-gemiddelde: 177,92",
+  "heading": "Hoeveel verpakkingsafval produceert ieder van ons?",
+  "subheading": "Een EU-burger genereerde in 2021 gemiddeld 189,8 kg verpakkingsafval, een stijging van 6,7% ten opzichte van 2020.",
   "legend1": "Geen gegevens beschikbaar",
-  "tooltip1": "kilo per hoofd van de bevolking",
+  "tooltip1": "kg per hoofd van de bevolking",
   "textSourceDescription": "Bron",
   "textSource": "Eurostat",
   "textNoteDescription": "Opmerking",
-  "textNote": "",
+  "textNote": "De cijfers voor Polen, Hongarije, Griekenland en Bulgarije zijn voor 2020",
   "textDataAccess": "Toegang tot de gegevens",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
-  "textCountryClick": "Klik voor meer info"
+  "textCountryClick": "Klik voor meer informatie"
 }

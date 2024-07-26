@@ -1,12 +1,12 @@
 {
-  "heading": "Förpackningsavfall genererat i EU-länder 2020",
-  "subheading": "Den totala mängden förpackningsavfall som produceras i EU-länder; EU-genomsnitt: 177,92",
+  "heading": "Hur mycket förpackningsavfall producerar var och en av oss?",
+  "subheading": "En EU-medborgare genererade i genomsnitt 189,8 kg förpackningsavfall 2021', en ökning med 6,7 % jämfört med 2020.",
   "legend1": "Ingen data tillgänglig",
   "tooltip1": "kg per capita",
   "textSourceDescription": "Källa",
   "textSource": "Eurostat",
   "textNoteDescription": "Notera",
-  "textNote": "",
+  "textNote": "Siffror för Polen, Ungern, Grekland och Bulgarien är för 2020",
   "textDataAccess": "Få åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Klicka för mer info"

@@ -1,13 +1,13 @@
 {
-  "heading": "Residuos de envases generados en los países de la UE en 2020",
-  "subheading": "La cantidad total de residuos de envases producidos en los países de la UE; Media UE: 177,92",
+  "heading": "¿Cuántos residuos de envases producimos cada uno de nosotros?",
+  "subheading": "Un ciudadano de la UE generó una media de 189,8 kg de residuos de envases en 2021, un aumento del 6,7% en comparación con 2020.",
   "legend1": "Datos no disponibles",
   "tooltip1": "kg per cápita",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "",
+  "textNote": "Las cifras de Polonia, Hungría, Grecia y Bulgaria corresponden a 2020.",
   "textDataAccess": "Accede a los datos",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
-  "textCountryClick": "Haga clic para obtener más información"
+  "textCountryClick": "Haga clic para más información"
 }

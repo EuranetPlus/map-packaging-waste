@@ -1,12 +1,12 @@
 {
-  "heading": "ES valstīs radītie iepakojuma atkritumi 2020. gadā",
-  "subheading": "Kopējais ES valstīs saražotā iepakojuma atkritumu daudzums; ES vidējais: 177,92",
+  "heading": "Cik daudz iepakojuma atkritumu katrs no mums saražo?",
+  "subheading": "Viens ES pilsonis 2021. gadā radīja vidēji 189,8 kg iepakojuma atkritumu”, kas ir par 6,7% vairāk nekā 2020. gadā.",
   "legend1": "Nav pieejami dati",
   "tooltip1": "kg uz vienu iedzīvotāju",
   "textSourceDescription": "Avots",
   "textSource": "Eurostat",
   "textNoteDescription": "Piezīme",
-  "textNote": "",
+  "textNote": "Polijas, Ungārijas, Grieķijas un Bulgārijas skaitļi attiecas uz 2020. gadu",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Noklikšķiniet, lai iegūtu vairāk informācijas"

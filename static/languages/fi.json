@@ -1,12 +1,12 @@
 {
-  "heading": "EU-maissa vuonna 2020 syntyvä pakkausjäte",
-  "subheading": "EU-maissa tuotetun pakkausjätteen kokonaismäärä; EU:n keskiarvo: 177,92",
+  "heading": "Kuinka paljon pakkausjätettä jokainen meistä tuottaa?",
+  "subheading": "EU-kansalainen tuotti vuonna 2021 keskimäärin 189,8 kg pakkausjätettä, mikä on 6,7 % enemmän kuin vuonna 2020.",
   "legend1": "Tietoja ei ole saatavilla",
   "tooltip1": "kg asukasta kohden",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Huomautus",
-  "textNote": "",
+  "textNote": "Puolan, Unkarin, Kreikan ja Bulgarian luvut ovat vuodelta 2020",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=fi",
   "textCountryClick": "Napsauta saadaksesi lisätietoja"

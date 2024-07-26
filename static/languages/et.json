@@ -1,12 +1,12 @@
 {
-  "heading": "2020. aastal ELi riikides tekkinud pakendijäätmed",
-  "subheading": "EL riikides toodetud pakendijäätmete üldkogus; EL keskmine:177,92",
+  "heading": "Kui palju pakendijäätmeid igaüks meist toodab?",
+  "subheading": "ELi kodanik tekitas 2021. aastal keskmiselt 189,8 kg pakendijäätmeid, mis on 6,7% rohkem kui 2020. aastal.",
   "legend1": "Andmed puuduvad",
   "tooltip1": "kg elaniku kohta",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märge",
-  "textNote": "",
+  "textNote": "Poola, Ungari, Kreeka ja Bulgaaria andmed on 2020. aasta kohta",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

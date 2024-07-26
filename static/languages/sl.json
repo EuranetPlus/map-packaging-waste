@@ -1,13 +1,13 @@
 {
-  "heading": "Nastala odpadna embalaža v državah EU leta 2020",
-  "subheading": "Skupna količina odpadne embalaže, ki nastane v državah EU; Povprečje EU: 177,92",
+  "heading": "Koliko odpadne embalaže proizvede vsak od nas?",
+  "subheading": "Državljan EU je leta 2021 v povprečju proizvedel 189,8 kg odpadne embalaže, kar je 6,7 % več kot leta 2020.",
   "legend1": "Ni podatkov",
   "tooltip1": "kg na prebivalca",
   "textSourceDescription": "Vir",
   "textSource": "Eurostat",
   "textNoteDescription": "Opomba",
-  "textNote": "",
-  "textDataAccess": "Dostopajte do podatkov",
+  "textNote": "Podatki za Poljsko, Madžarsko, Grčijo in Bolgarijo so za leto 2020",
+  "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Kliknite za več informacij"
 }

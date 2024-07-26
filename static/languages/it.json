@@ -1,13 +1,13 @@
 {
-  "heading": "Rifiuti di imballaggio generati nei paesi dell'UE nel 2020",
-  "subheading": "La quantità totale di rifiuti di imballaggio prodotti nei paesi dell'UE; Media UE: 177,92",
+  "heading": "Quanti rifiuti di imballaggio produce ognuno di noi?",
+  "subheading": "Un cittadino Ue ha generato in media 189,8 kg di rifiuti di imballaggio nel 2021', con un incremento del 6,7% rispetto al 2020.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "kg per capita",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "",
+  "textNote": "I dati per Polonia, Ungheria, Grecia e Bulgaria si riferiscono al 2020",
   "textDataAccess": "Accedi ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
-  "textCountryClick": "Clicca per maggiori informazioni"
+  "textCountryClick": "Fare clic per maggiori informazioni"
 }

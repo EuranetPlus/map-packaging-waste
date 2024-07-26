@@ -1,13 +1,13 @@
 {
-  "heading": "Verpackungsabfälle, die 2020 in den EU-Ländern erzeugt wurden",
-  "subheading": "Die Gesamtmenge des in den EU-Ländern produzierten Verpackungsabfalls; EU-Durchschnitt: 177,92",
+  "heading": "Wie viel Verpackungsmüll produziert jeder von uns?",
+  "subheading": "„Ein EU-Bürger erzeugte im Jahr 2021 durchschnittlich 189,8 kg Verpackungsmüll“, das entspricht einem Anstieg von 6,7 % gegenüber 2020.",
   "legend1": "Keine Daten verfügbar",
-  "tooltip1": "Kilogramm pro Kopf",
+  "tooltip1": "kg pro Kopf",
   "textSourceDescription": "Quelle",
   "textSource": "Eurostat",
   "textNoteDescription": "Notiz",
-  "textNote": "",
-  "textDataAccess": "Greifen Sie auf die Daten zu",
+  "textNote": "Die Zahlen für Polen, Ungarn, Griechenland und Bulgarien beziehen sich auf das Jahr 2020.",
+  "textDataAccess": "Zugriff auf die Daten",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
-  "textCountryClick": "Klicken Sie für weitere Informationen"
+  "textCountryClick": "Klicken Sie hier für weitere Informationen"
 }
