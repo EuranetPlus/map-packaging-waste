@@ -1,12 +1,12 @@
 {
   "heading": "Cé mhéad dramhaíola pacáistithe a tháirgeann gach duine againn?",
-  "subheading": "Ghin saoránach AE 189.8 kg de dhramhaíl pacáistithe ar an meán in 2021’, méadú 6.7% i gcomparáid le 2020.",
+  "subheading": "Ghin saoránach AE 189.8 kg de dhramhaíl pacáistithe ar an meán in 2021, méadú 6.7% i gcomparáid le 2020.",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltip1": "kg in aghaidh an duine",
   "textSourceDescription": "Foinse",
   "textSource": "Eurostat",
   "textNoteDescription": "Nóta",
-  "textNote": "Is do 2020 na figiúirí don Pholainn, don Ungáir, don Ghréig agus don Bhulgáir",
+  "textNote": "Tá na figiúirí is déanaí don Pholainn, don Ungáir, don Ghréig agus don Bhulgáir ó 2020",
   "textDataAccess": "Faigh rochtain ar na sonraí",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=ga",
   "textCountryClick": "Cliceáil le haghaidh tuilleadh eolais"

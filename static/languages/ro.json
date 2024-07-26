@@ -1,12 +1,12 @@
 {
   "heading": "Câte deșeuri de ambalaje producem fiecare dintre noi?",
-  "subheading": "Un cetățean al UE a generat în medie 189,8 kg de deșeuri de ambalaje în 2021’, o creștere de 6,7% față de 2020.",
+  "subheading": "Un cetățean al UE a generat în medie 189,8 kg de deșeuri de ambalaje în 2021, o creștere de 6,7% față de 2020.",
   "legend1": "Nici o informatie disponibila",
   "tooltip1": "kg pe cap de locuitor",
   "textSourceDescription": "Sursă",
   "textSource": "Eurostat",
   "textNoteDescription": "Notă",
-  "textNote": "Cifrele pentru Polonia, Ungaria, Grecia și Bulgaria sunt pentru 2020",
+  "textNote": "Cele mai recente cifre pentru Polonia, Ungaria, Grecia și Bulgaria sunt din 2020",
   "textDataAccess": "Accesați datele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Click pentru mai multe informații"

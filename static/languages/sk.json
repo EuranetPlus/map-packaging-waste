@@ -1,12 +1,12 @@
 {
   "heading": "Koľko odpadu z obalov vyprodukuje každý z nás?",
-  "subheading": "Občan EÚ vyprodukoval v roku 2021 v priemere 189,8 kg odpadov z obalov, čo predstavuje nárast o 6,7 % v porovnaní s rokom 2020.",
+  "subheading": "Občan EÚ vyprodukoval v roku 2021 v priemere 189,8 kg odpadov z obalov, čo je v porovnaní s rokom 2020 nárast o 6,7 %.",
   "legend1": "Nie sú k dispozícii žiadne údaje",
   "tooltip1": "kg na obyvateľa",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Údaje za Poľsko, Maďarsko, Grécko a Bulharsko sú za rok 2020",
+  "textNote": "Najnovšie údaje pre Poľsko, Maďarsko, Grécko a Bulharsko sú z roku 2020",
   "textDataAccess": "Prístup k údajom",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=sk",
   "textCountryClick": "Kliknite pre viac informácií"

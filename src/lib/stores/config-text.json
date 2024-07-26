@@ -6,7 +6,7 @@
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Latest figures for Poland, Hungary, Greece and Bulgaria are from 2020", 
+  "textNote": "Latest figures for Poland, Hungary, Greece and Bulgaria are from 2020",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Click for more info"

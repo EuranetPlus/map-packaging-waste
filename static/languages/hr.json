@@ -1,12 +1,12 @@
 {
   "heading": "Koliko svatko od nas proizvede ambalažnog otpada?",
-  "subheading": "Stanovnik EU-a proizveo je u prosjeku 189,8 kg ambalažnog otpada u 2021', što je povećanje od 6,7% u odnosu na 2020. godinu.",
+  "subheading": "Stanovnik EU-a proizveo je u prosjeku 189,8 kg ambalažnog otpada u 2021. godini, što je povećanje od 6,7% u odnosu na 2020. godinu.",
   "legend1": "Nema dostupnih podataka",
   "tooltip1": "kg po glavi stanovnika",
   "textSourceDescription": "Izvor",
   "textSource": "Eurostat",
   "textNoteDescription": "Bilješka",
-  "textNote": "Brojke za Poljsku, Mađarsku, Grčku i Bugarsku odnose se na 2020",
+  "textNote": "Najnovije brojke za Poljsku, Mađarsku, Grčku i Bugarsku su iz 2020",
   "textDataAccess": "Pristupite podacima",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Kliknite za više informacija"

@@ -1,12 +1,12 @@
 {
   "heading": "Kui palju pakendijäätmeid igaüks meist toodab?",
-  "subheading": "ELi kodanik tekitas 2021. aastal keskmiselt 189,8 kg pakendijäätmeid, mis on 6,7% rohkem kui 2020. aastal.",
+  "subheading": "EL-i kodanik tekitas 2021. aastal keskmiselt 189,8 kg pakendijäätmeid, mis on 6,7% rohkem kui 2020. aastal.",
   "legend1": "Andmed puuduvad",
   "tooltip1": "kg elaniku kohta",
   "textSourceDescription": "Allikas",
   "textSource": "Eurostat",
   "textNoteDescription": "Märge",
-  "textNote": "Poola, Ungari, Kreeka ja Bulgaaria andmed on 2020. aasta kohta",
+  "textNote": "Viimased andmed Poola, Ungari, Kreeka ja Bulgaaria kohta pärinevad 2020. aastast",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

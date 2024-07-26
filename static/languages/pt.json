@@ -1,12 +1,12 @@
 {
   "heading": "Quantos resíduos de embalagens cada um de nós produz?",
-  "subheading": "Um cidadão da UE gerou em média 189,8 kg de resíduos de embalagens em 2021, um aumento de 6,7% em relação a 2020.",
+  "subheading": "Um cidadão da UE gerou em média 189,8 kg de resíduos de embalagens em 2021, um aumento de 6,7% em comparação com 2020.",
   "legend1": "Não há dados disponíveis",
   "tooltip1": "kg per capita",
   "textSourceDescription": "Fonte",
   "textSource": "Eurostat",
   "textNoteDescription": "Observação",
-  "textNote": "Os números relativos à Polónia, Hungria, Grécia e Bulgária referem-se a 2020",
+  "textNote": "Os números mais recentes da Polónia, Hungria, Grécia e Bulgária são de 2020",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Clique para mais informações"
