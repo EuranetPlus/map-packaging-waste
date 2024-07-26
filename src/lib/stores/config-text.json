@@ -1,12 +1,12 @@
 {
   "heading": "How much packaging waste does each of us produce?",
-  "subheading": "An EU citizen generated on average 189.8 kg of packaging waste in 2021', an increase of 6.7% compared to 2020.",
+  "subheading": "An EU citizen generated on average 189.8 kg of packaging waste in 2021, an increase of 6.7% compared to 2020.",
   "legend1": "No data available",
   "tooltip1": "kg per capita",
   "textSourceDescription": "Source",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "Figures for Poland, Hungary, Greece and Bulgaria are for 2020",
+  "textNote": "Latest figures for Poland, Hungary, Greece and Bulgaria are from 2020", 
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Click for more info"
