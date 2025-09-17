@@ -1,13 +1,13 @@
 {
-  "heading": "Kolik obalového odpadu každý z nás vyprodukuje?",
-  "subheading": "Občan EU vyprodukoval v roce 2021 v průměru 189,8 kg obalového odpadu, což je o 6,7 % více než v roce 2020.",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "heading": "Kolik obalového odpadu každý z nás produkuje?",
+  "subheading": "Občan EU v roce 2021 vyprodukoval v průměru 189,8 kg obalového odpadu, což představuje nárůst o 6,7 % oproti roku 2020.",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltip1": "kg na obyvatele",
   "textSourceDescription": "Zdroj",
   "textSource": "Eurostat",
   "textNoteDescription": "Poznámka",
-  "textNote": "Nejnovější údaje pro Polsko, Maďarsko, Řecko a Bulharsko jsou z roku 2020",
+  "textNote": "Nejnovější údaje pro Polsko, Maďarsko, Řecko a Bulharsko jsou z roku 2020.",
   "textDataAccess": "Přístup k datům",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=cs",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Klikněte pro více informací"
 }

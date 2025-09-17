@@ -1,13 +1,13 @@
 {
-  "heading": "Kiek pakuočių atliekų susidaro kiekvienas iš mūsų?",
-  "subheading": "ES pilietis 2021 metais vidutiniškai susidarė 189,8 kg pakuočių atliekų – 6,7% daugiau nei 2020 metais.",
+  "heading": "Kiek pakuočių atliekų kiekvienas iš mūsų pagamina?",
+  "subheading": "2021 m. vienas ES pilietis vidutiniškai pagamino 189,8 kg pakuočių atliekų – tai 6,7 % daugiau nei 2020 m.",
   "legend1": "Nėra duomenų",
   "tooltip1": "kg vienam gyventojui",
   "textSourceDescription": "Šaltinis",
   "textSource": "Eurostatas",
   "textNoteDescription": "Pastaba",
-  "textNote": "Naujausi duomenys apie Lenkiją, Vengriją, Graikiją ir Bulgariją yra nuo 2020 m",
-  "textDataAccess": "Pasiekite duomenis",
+  "textNote": "Naujausi Lenkijos, Vengrijos, Graikijos ir Bulgarijos duomenys yra iš 2020 m.",
+  "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"
 }

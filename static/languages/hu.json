@@ -1,13 +1,13 @@
 {
-  "heading": "Mennyi csomagolási hulladékot termelünk mindegyikünkben?",
+  "heading": "Mennyi csomagolási hulladékot termelünk mindannyian?",
   "subheading": "Egy uniós polgár átlagosan 189,8 kg csomagolási hulladékot termelt 2021-ben, ami 6,7%-os növekedést jelent 2020-hoz képest.",
-  "legend1": "Nincs elérhető adat",
+  "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "kg fejenként",
   "textSourceDescription": "Forrás",
   "textSource": "Eurostat",
-  "textNoteDescription": "jegyzet",
-  "textNote": "A legutóbbi adatok Lengyelországra, Magyarországra, Görögországra és Bulgáriára 2020-ból származnak",
+  "textNoteDescription": "Jegyzet",
+  "textNote": "Lengyelország, Magyarország, Görögország és Bulgária legfrissebb adatai 2020-ból származnak.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
-  "textCountryClick": "További információért kattintson"
+  "textCountryClick": "Kattintson a további információkért"
 }

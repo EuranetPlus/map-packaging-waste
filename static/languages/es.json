@@ -1,13 +1,13 @@
 {
   "heading": "¿Cuántos residuos de envases producimos cada uno de nosotros?",
   "subheading": "Un ciudadano de la UE generó una media de 189,8 kg de residuos de envases en 2021, un aumento del 6,7% en comparación con 2020.",
-  "legend1": "Datos no disponibles",
+  "legend1": "No hay datos disponibles",
   "tooltip1": "kg per cápita",
   "textSourceDescription": "Fuente",
   "textSource": "Eurostat",
   "textNoteDescription": "Nota",
-  "textNote": "Las últimas cifras de Polonia, Hungría, Grecia y Bulgaria son de 2020",
-  "textDataAccess": "Accede a los datos",
-  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
+  "textNote": "Las últimas cifras de Polonia, Hungría, Grecia y Bulgaria son de 2020.",
+  "textDataAccess": "Acceder a los datos",
+  "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=es",
   "textCountryClick": "Haga clic para más información"
 }
