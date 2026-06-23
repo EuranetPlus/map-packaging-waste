@@ -1,12 +1,12 @@
 {
   "heading": "Hvor meget emballageaffald producerer vi hver især?",
-  "subheading": "En EU-borger genererede i gennemsnit 189,8 kg emballageaffald i 2021, en stigning på 6,7 % i forhold til 2020.",
+  "subheading": "I 2023 genererede en EU-borger i gennemsnit 177,8 kg emballageaffald, et fald på 4,7 % i forhold til 2022.",
   "legend1": "Ingen data tilgængelige",
   "tooltip1": "kg pr. indbygger",
   "textSourceDescription": "Kilde",
   "textSource": "Eurostat",
   "textNoteDescription": "Note",
-  "textNote": "De seneste tal for Polen, Ungarn, Grækenland og Bulgarien er fra 2020",
+  "textNote": "De seneste tal for Polen, Ungarn, Kroatien og Bulgarien er fra 2022.",
   "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Klik for mere information"

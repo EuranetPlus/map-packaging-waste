@@ -1,12 +1,12 @@
 {
   "heading": "Kuinka paljon pakkausjätettä meistä kukin tuottaa?",
-  "subheading": "EU:n kansalainen tuotti keskimäärin 189,8 kg pakkausjätettä vuonna 2021, mikä on 6,7 % enemmän kuin vuonna 2020.",
+  "subheading": "Vuonna 2023 EU:n kansalainen tuotti keskimäärin 177,8 kg pakkausjätettä, mikä on 4,7 prosenttia vähemmän kuin vuonna 2022.",
   "legend1": "Ei tietoja saatavilla",
   "tooltip1": "kg henkeä kohti",
   "textSourceDescription": "Lähde",
   "textSource": "Eurostat",
   "textNoteDescription": "Huomautus",
-  "textNote": "Puolan, Unkarin, Kreikan ja Bulgarian uusimmat luvut ovat vuodelta 2020.",
+  "textNote": "Puolan, Unkarin, Kroatian ja Bulgarian uusimmat luvut ovat vuodelta 2022.",
   "textDataAccess": "Käytä tietoja",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Klikkaa saadaksesi lisätietoja"

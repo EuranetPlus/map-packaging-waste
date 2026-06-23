@@ -1,12 +1,12 @@
 {
   "heading": "Ile odpadów opakowaniowych produkuje każdy z nas?",
-  "subheading": "Przeciętny obywatel UE wytworzył w 2021 r. 189,8 kg odpadów opakowaniowych, co stanowi wzrost o 6,7% w porównaniu z rokiem 2020.",
+  "subheading": "W 2023 r. przeciętny obywatel UE wytworzył 177,8 kg odpadów opakowaniowych, co oznacza spadek o 4,7% w porównaniu z rokiem 2022.",
   "legend1": "Brak dostępnych danych",
   "tooltip1": "kg na osobę",
   "textSourceDescription": "Źródło",
   "textSource": "Eurostat",
   "textNoteDescription": "Notatka",
-  "textNote": "Najnowsze dane dla Polski, Węgier, Grecji i Bułgarii pochodzą z 2020 r.",
+  "textNote": "Najnowsze dane dla Polski, Węgier, Chorwacji i Bułgarii pochodzą z 2022 r.",
   "textDataAccess": "Dostęp do danych",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Kliknij, aby uzyskać więcej informacji"
