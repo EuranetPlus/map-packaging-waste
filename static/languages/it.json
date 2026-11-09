@@ -1,12 +1,12 @@
 {
   "heading": "Quanti rifiuti da imballaggio produce ciascuno di noi?",
-  "subheading": "Nel 2023, un cittadino dell'UE ha prodotto in media 177,8 kg di rifiuti di imballaggio, con una diminuzione del 4,7% rispetto al 2022.",
+  "subheading": "Nel 2024, un cittadino dell'UE ha generato in media 181,0 kg di rifiuti di imballaggio, con un aumento dell'1,8% rispetto al 2023.",
   "legend1": "Nessun dato disponibile",
   "tooltip1": "kg per capita",
   "textSourceDescription": "Fonte",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Nota",
-  "textNote": "Gli ultimi dati relativi a Polonia, Ungheria, Croazia e Bulgaria si riferiscono al 2022.",
+  "textNote": "Gli ultimi dati relativi a Bulgaria e Ungheria risalgono al 2022, mentre quelli relativi a Romania e Svezia risalgono al 2023.",
   "textDataAccess": "Accedere ai dati",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Clicca per maggiori informazioni"

@@ -1,12 +1,12 @@
 {
   "heading": "Hvor meget emballageaffald producerer vi hver især?",
-  "subheading": "I 2023 genererede en EU-borger i gennemsnit 177,8 kg emballageaffald, et fald på 4,7 % i forhold til 2022.",
+  "subheading": "I 2024 genererede en EU-borger i gennemsnit 181,0 kg emballageaffald, en stigning på 1,8 % i forhold til 2023.",
   "legend1": "Ingen data tilgængelige",
   "tooltip1": "kg pr. indbygger",
   "textSourceDescription": "Kilde",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Note",
-  "textNote": "De seneste tal for Polen, Ungarn, Kroatien og Bulgarien er fra 2022.",
+  "textNote": "De seneste tal for Bulgarien og Ungarn er fra 2022, mens de seneste tal for Rumænien og Sverige er fra 2023.",
   "textDataAccess": "Få adgang til dataene",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Klik for mere information"

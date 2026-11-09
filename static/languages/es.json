@@ -1,12 +1,12 @@
 {
   "heading": "¿Cuántos residuos de envases generamos cada uno de nosotros?",
-  "subheading": "En 2023, un ciudadano de la UE generó de media 177,8 kg de residuos de envases, lo que supone un descenso del 4,7 % con respecto a 2022.",
+  "subheading": "En 2024, un ciudadano de la UE generó de media 181,0 kg de residuos de envases, lo que supone un aumento del 1,8 % con respecto a 2023.",
   "legend1": "No hay datos disponibles",
   "tooltip1": "kg por persona",
   "textSourceDescription": "Fuente",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Nota",
-  "textNote": "Las últimas cifras correspondientes a Polonia, Hungría, Croacia y Bulgaria son de 2022.",
+  "textNote": "Las últimas cifras correspondientes a Bulgaria y Hungría son de 2022, mientras que las últimas cifras de Rumanía y Suecia son de 2023.",
   "textDataAccess": "Acceder a los datos",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Haz clic para obtener más información."

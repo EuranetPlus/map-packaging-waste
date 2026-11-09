@@ -1,12 +1,12 @@
 {
   "heading": "Koliko odpadne embalaže proizvede vsak od nas?",
-  "subheading": "Leta 2023 je državljan EU v povprečju ustvaril 177,8 kg odpadne embalaže, kar je 4,7 % manj kot leta 2022.",
+  "subheading": "Leta 2024 je državljan EU v povprečju ustvaril 181,0 kg odpadne embalaže, kar je 1,8 % več kot leta 2023.",
   "legend1": "Ni na voljo podatkov",
   "tooltip1": "kg na prebivalca",
   "textSourceDescription": "Vir",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Opomba",
-  "textNote": "Najnovejši podatki za Poljsko, Madžarsko, Hrvaško in Bolgarijo so iz leta 2022.",
+  "textNote": "Najnovejši podatki za Bolgarijo in Madžarsko so iz leta 2022, najnovejši podatki za Romunijo in Švedsko pa iz leta 2023.",
   "textDataAccess": "Dostop do podatkov",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Kliknite za več informacij"

@@ -1,12 +1,12 @@
 {
   "heading": "Quelle quantité de déchets d'emballage produisons-nous chacun d'entre nous ?",
-  "subheading": "En 2023, un citoyen de l'UE a généré en moyenne 177,8 kg de déchets d'emballage, soit une diminution de 4,7 % par rapport à 2022.",
+  "subheading": "En 2024, un citoyen de l'UE a généré en moyenne 181,0 kg de déchets d'emballage, soit une augmentation de 1,8 % par rapport à 2023.",
   "legend1": "Aucune donnée disponible",
   "tooltip1": "kg par habitant",
   "textSourceDescription": "Source",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Note",
-  "textNote": "Les derniers chiffres concernant la Pologne, la Hongrie, la Croatie et la Bulgarie datent de 2022.",
+  "textNote": "Les derniers chiffres concernant la Bulgarie et la Hongrie datent de 2022, tandis que ceux concernant la Roumanie et la Suède datent de 2023.",
   "textDataAccess": "Accéder aux données",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Cliquez pour plus d'informations"

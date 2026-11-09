@@ -1,12 +1,12 @@
 {
   "heading": "Cik daudz iepakojuma atkritumu katrs no mums rada?",
-  "subheading": "2023. gadā viens ES iedzīvotājs vidēji radīja 177,8 kg iepakojuma atkritumu, kas ir par 4,7 % mazāk nekā 2022. gadā.",
+  "subheading": "2024. gadā viens ES iedzīvotājs vidēji radīja 181,0 kg iepakojuma atkritumu, kas ir par 1,8 % vairāk nekā 2023. gadā.",
   "legend1": "Dati nav pieejami",
   "tooltip1": "kg uz vienu iedzīvotāju",
   "textSourceDescription": "Avots",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Piezīme",
-  "textNote": "Jaunākie dati par Poliju, Ungāriju, Horvātiju un Bulgāriju ir no 2022. gada.",
+  "textNote": "Jaunākie dati par Bulgāriju un Ungāriju ir no 2022. gada, savukārt jaunākie dati par Rumāniju un Zviedriju ir no 2023. gada.",
   "textDataAccess": "Piekļūstiet datiem",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Noklikšķiniet, lai iegūtu plašāku informāciju"

@@ -1,12 +1,12 @@
 {
   "heading": "Wie viel Verpackungsmüll produziert jeder von uns?",
-  "subheading": "Im Jahr 2023 produzierte ein EU-Bürger durchschnittlich 177,8 kg Verpackungsmüll, ein Rückgang von 4,7 % gegenüber 2022.",
+  "subheading": "Im Jahr 2024 produzierte ein EU-Bürger durchschnittlich 181,0 kg Verpackungsmüll, ein Anstieg von 1,8 % gegenüber 2023.",
   "legend1": "Keine Daten verfügbar",
   "tooltip1": "kg pro Kopf",
   "textSourceDescription": "Quelle",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Notiz",
-  "textNote": "Die aktuellsten Zahlen für Polen, Ungarn, Kroatien und Bulgarien stammen aus dem Jahr 2022.",
+  "textNote": "Die aktuellsten Zahlen für Bulgarien und Ungarn stammen aus dem Jahr 2022, die aktuellsten Zahlen für Rumänien und Schweden aus dem Jahr 2023.",
   "textDataAccess": "Greifen Sie auf die Daten zu.",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Klicken Sie hier für weitere Informationen."

@@ -1,12 +1,12 @@
 {
   "heading": "Kiek pakuočių atliekų kiekvienas iš mūsų pagamina?",
-  "subheading": "2023 m. vienas ES pilietis vidutiniškai pagamino 177,8 kg pakuočių atliekų – 4,7 % mažiau nei 2022 m.",
+  "subheading": "2024 m. vienas ES pilietis vidutiniškai pagamino 181,0 kg pakuočių atliekų – 1,8 % daugiau nei 2023 m.",
   "legend1": "Nėra duomenų",
   "tooltip1": "kg vienam gyventojui",
   "textSourceDescription": "Šaltinis",
-  "textSource": "Eurostatas",
+  "textSource": "Eurostatas (2026 m.)",
   "textNoteDescription": "Pastaba",
-  "textNote": "Naujausi Lenkijos, Vengrijos, Kroatijos ir Bulgarijos duomenys yra iš 2022 m.",
+  "textNote": "Naujausi Bulgarijos ir Vengrijos duomenys yra iš 2022 m., o Rumunijos ir Švedijos – iš 2023 m.",
   "textDataAccess": "Prieiga prie duomenų",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Spustelėkite norėdami gauti daugiau informacijos"

@@ -1,12 +1,12 @@
 {
   "heading": "Hur mycket förpackningsavfall producerar var och en av oss?",
-  "subheading": "År 2023 genererade en EU-medborgare i genomsnitt 177,8 kg förpackningsavfall, en minskning med 4,7 % jämfört med 2022.",
+  "subheading": "År 2024 genererade en EU-medborgare i genomsnitt 181,0 kg förpackningsavfall, en ökning med 1,8 % jämfört med 2023.",
   "legend1": "Inga data tillgängliga",
   "tooltip1": "kg per capita",
   "textSourceDescription": "Källa",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Notera",
-  "textNote": "De senaste siffrorna för Polen, Ungern, Kroatien och Bulgarien är från 2022.",
+  "textNote": "De senaste siffrorna för Bulgarien och Ungern är från 2022, medan de senaste siffrorna för Rumänien och Sverige är från 2023.",
   "textDataAccess": "Åtkomst till data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Klicka för mer information"

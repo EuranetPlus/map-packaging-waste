@@ -1,12 +1,12 @@
 {
   "heading": "Mennyi csomagolási hulladékot termelünk mindannyian?",
-  "subheading": "2023-ban egy uniós polgár átlagosan 177,8 kg csomagolási hulladékot termelt, ami 4,7%-os csökkenést jelent 2022-höz képest.",
+  "subheading": "2024-ben egy uniós polgár átlagosan 181,0 kg csomagolási hulladékot termelt, ami 1,8%-os növekedést jelent 2023-hoz képest.",
   "legend1": "Nincsenek elérhető adatok",
   "tooltip1": "kg fejenként",
   "textSourceDescription": "Forrás",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Jegyzet",
-  "textNote": "Lengyelország, Magyarország, Horvátország és Bulgária legfrissebb adatai 2022-ből származnak.",
+  "textNote": "Bulgária és Magyarország legfrissebb adatai 2022-ből, míg Románia és Svédország legfrissebb adatai 2023-ból származnak.",
   "textDataAccess": "Hozzáférés az adatokhoz",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Kattintson a további információkért"

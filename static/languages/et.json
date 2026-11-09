@@ -1,12 +1,12 @@
 {
   "heading": "Kui palju pakendijäätmeid meist igaüks toodab?",
-  "subheading": "2023. aastal tekitas iga ELi kodanik keskmiselt 177,8 kg pakendijäätmeid, mis on 4,7% vähem kui 2022. aastal.",
+  "subheading": "2024. aastal tekitas iga ELi kodanik keskmiselt 181,0 kg pakendijäätmeid, mis on 1,8% rohkem kui 2023. aastal.",
   "legend1": "Andmed pole saadaval",
   "tooltip1": "kg elaniku kohta",
   "textSourceDescription": "Allikas",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Märkus",
-  "textNote": "Poola, Ungari, Horvaatia ja Bulgaaria viimased andmed pärinevad 2022. aastast.",
+  "textNote": "Bulgaaria ja Ungari viimased andmed pärinevad 2022. aastast, Rumeenia ja Rootsi viimased andmed aga 2023. aastast.",
   "textDataAccess": "Juurdepääs andmetele",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Lisateabe saamiseks klõpsake"

@@ -1,12 +1,12 @@
 {
   "heading": "Qual a quantidade de resíduos de embalagens que cada um de nós produz?",
-  "subheading": "Em 2023, um cidadão da UE gerou, em média, 177,8 kg de resíduos de embalagens, uma diminuição de 4,7% em comparação com 2022.",
+  "subheading": "Em 2024, um cidadão da UE gerou, em média, 181,0 kg de resíduos de embalagens, um aumento de 1,8% em comparação com 2023.",
   "legend1": "Não há dados disponíveis.",
   "tooltip1": "kg por pessoa",
   "textSourceDescription": "Fonte",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Observação",
-  "textNote": "Os dados mais recentes para a Polônia, Hungria, Croácia e Bulgária são de 2022.",
+  "textNote": "Os dados mais recentes para a Bulgária e a Hungria são de 2022, enquanto os dados mais recentes para a Romênia e a Suécia são de 2023.",
   "textDataAccess": "Acesse os dados",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Clique para mais informações"
