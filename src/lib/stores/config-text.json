@@ -1,12 +1,12 @@
 {
   "heading": "How much packaging waste does each of us produce?",
-  "subheading": "In 2023, an EU citizen generated on average 177.8 kg of packaging waste, a decrease of 4.7% compared to 2022.",
+  "subheading": "In 2024, an EU citizen generated on average 181.0 kg of packaging waste, an increase of 1.8% compared to 2023.",
   "legend1": "No data available",
   "tooltip1": "kg per capita",
   "textSourceDescription": "Source",
-  "textSource": "Eurostat",
+  "textSource": "Eurostat (2026)",
   "textNoteDescription": "Note",
-  "textNote": "Latest figures for Poland, Hungary, Croatia and Bulgaria are from 2022.",
+  "textNote": "Latest figures for Bulgaria and Hungary are from 2022, while the latest figures for Romania and Sweden are from 2023.",
   "textDataAccess": "Access the data",
   "linkDataAccess": "https://ec.europa.eu/eurostat/databrowser/view/env_waspac/default/table?lang=en",
   "textCountryClick": "Click for more info"
